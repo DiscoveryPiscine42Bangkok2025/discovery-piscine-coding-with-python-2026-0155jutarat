@@ -7,3 +7,6 @@ if len(sys.argv) < 3:
 else:
     for param in sys.argv[:0:-1]:
         print(param)
+
+
+# "Python" "piscine" "hello"

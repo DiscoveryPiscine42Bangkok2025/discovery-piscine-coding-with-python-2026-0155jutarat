@@ -2,3 +2,6 @@
 
 text = input()
 print(text.swapcase())
+
+
+#Hello World

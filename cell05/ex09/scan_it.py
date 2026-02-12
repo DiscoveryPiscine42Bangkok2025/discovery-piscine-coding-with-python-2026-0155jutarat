@@ -13,3 +13,6 @@ else:
         print("none")
     else:
         print(count)
+
+
+#"the" "the quick brown fox jumps over the lazy dog"
